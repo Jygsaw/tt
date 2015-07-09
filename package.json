@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jygsaw/tt/issues"
   },
-  "homepage": "https://github.com/jygsaw/tt#readme"
+  "homepage": "https://github.com/jygsaw/tt#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
 }
